@@ -1,4 +1,11 @@
-
+---
+title: backend-metrics-app
+emoji: 🎬
+colorFrom: blue
+colorTo: gray
+sdk: docker
+app_port: 7860
+---
 <p align="center">
   <img src="https://iili.io/KhN0ztj.png" alt="Logo" width="400"/>
 </p>
